@@ -1,6 +1,6 @@
 #UserNotificationsDemo
 
-#copy from : https://coding.net/u/Dely/p/UserNotificationsDemo/git
+#import from : https://coding.net/u/Dely/p/UserNotificationsDemo/git
 
 #author: Dely
 
